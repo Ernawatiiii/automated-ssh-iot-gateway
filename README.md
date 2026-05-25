@@ -14,4 +14,4 @@ Proyek ini mengimplementasikan sistem otomatisasi pengiriman data sensor dari pe
 - **C++ (Arduino IDE)**: Digunakan untuk memprogram logika mikrokontroler ESP32 (`sketch_oct21a.ino`).
 - **HTML**: Monitoring data sederhana melalui web interface (`table.html`).
 - **OS & Protokol**: Linux Gateway & Secure Shell (SSH).
--
+
